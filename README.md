@@ -1,4 +1,4 @@
-MNIST Digit Classification with TensorFlow
+**MNIST Digit Classification with TensorFlow**
 
 This project aims to build and train a neural network model in TensorFlow to classify handwritten digits from the MNIST dataset with high accuracy.
 
